@@ -1,4 +1,4 @@
-# About Me :
+# About Me:
 Space for little funprojects. 
 
 # Tech Stack
